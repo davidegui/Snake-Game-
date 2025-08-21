@@ -56,7 +56,7 @@ pip install pygame==2.6.1
 
 🚀 Cómo ejecutar el juego
 Clona este repositorio o descarga el proyecto:
-git clone https://github.com/tu_usuario/Snake-Game.git
+git clone [https://github.com/davidegui/Snake-Game-.git]
 cd Snake1-Game
 Asegúrate de tener Python y Pygame instalados.
 Ejecuta el juego con:
